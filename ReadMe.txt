@@ -1,5 +1,9 @@
 ****This project will help to insert, update, delete or show data from database******
 
+
+***copy the "Employee_Info" folder to the local server diractory.
+*** hit "http://localhost/.../Employee_info" to run the project.
+
 //database connection
   $servername = "localhost";
   $username = "root";
@@ -12,10 +16,3 @@
   }
 
 **this will connect to the local server, so please make sure local server is running.**
-
-Important:
-	Database name: "employee_info"
-	table name: 	"employees"
-
-*** Database have to be created manually into the local server 
-	according to the avobe database name and table name. ***
