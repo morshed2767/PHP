@@ -1,5 +1,7 @@
 <?php
 
+  require_once('database.php');
+
 //connecting to the database
   $servername = "localhost";
   $username = "root";
