@@ -15,4 +15,4 @@
     die ('Connection failed: ' . $con->connect_error);
   }
 
-**this will connect to the local server, so please make sure local server is running.**
+**this will connect to the local server, so please make sure local server is running.**....
